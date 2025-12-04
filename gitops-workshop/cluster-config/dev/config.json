@@ -1,8 +1,8 @@
 {
   "cluster_name" : "dev",
-  "harness_service" : "frontendgitops",
+  "harness_service" : "frontend",
   "environment" : "dev",
-  "image_tag" : "cassieatt6240-22",
+  "image_tag" : "daviatt6243108-3",
   "server_address" : "https://kubernetes.default.svc",
-  "username" : "cassafsadgasd"
+  "username" : "daviatt6243108"
 }
